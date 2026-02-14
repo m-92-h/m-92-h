@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=00d2ff&secondaryColor=3a7bd5&text=Mohamed%20Hussein&section=header&reversal=false&animation=fadeIn&fontAlignY=50)
 
-### Passionate about Code & Technology 🚀
+### Passionate about Code & Technology
 
 </div>
 
