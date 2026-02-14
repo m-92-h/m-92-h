@@ -3,6 +3,8 @@
 # Hello, I'm Mohamed Hussein 🚀
 ### Passionate about Code & Technology
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohamed%20Hussein&fontSize=70&animation=fadeIn&fontAlignY=35)
+
 </div>
 
 ---
@@ -34,11 +36,14 @@ Computer Science Educator & Enthusiast web development | Ranked 1st in Universit
 
 ---
 
-### 📫 Let's Connect
-* **LinkedIn:** [Insert your profile link]
-* **Email:** [Insert your email address]
+### 🤝 Connect With Me
 
----
 <div align="center">
-  <sub>Built with ❤️ and passion for technology.</sub>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-92-h)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Keep%20Coding&fontSize=40&animation=fadeIn)
+
 </div>
