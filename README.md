@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Mohamed%20Hussein&section=header&reversal=false&animation=fadeIn&fontAlignY=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=auto&text=Mohamed%20Hussein&section=header&reversal=false&animation=fadeIn&fontAlignY=50)
 
 ### Passionate about Code & Technology 🚀
 
@@ -11,7 +11,7 @@
 ### 📖 About Me
 Computer Science Educator & Enthusiast web development | Ranked 1st in University of Baghdad (92% Distinction). I specialize in breaking down complex technical concepts into accessible knowledge. With a strong foundation in Computer Science and a passion for Web Development, I strive to bridge the gap between technical theory and practical application.
 
-![profile-view](https://komarev.com/ghpvc/?username=m-92-h-username&color=green)
+![views](https://komarev.com/ghpvc/?username=m-92-h-username&color=green)
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -44,6 +44,6 @@ Computer Science Educator & Enthusiast web development | Ranked 1st in Universit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-92-h)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Keep%20Coding&fontSize=40&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 </div>
