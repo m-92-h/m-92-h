@@ -1,5 +1,5 @@
 <div align="center">
-![](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Mohamed%20Hussein&reversal=false&animation=fadeIn&fontAlignY=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Mohamed%20Hussein&section=header&reversal=false&animation=fadeIn&fontAlignY=50)
   
 ### Passionate about Code & Technology 🚀
 </div>
