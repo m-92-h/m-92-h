@@ -1,9 +1,12 @@
 <div align="center">
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Mohamed%20Hussein&section=header&reversal=false&animation=fadeIn&fontAlignY=50)
-  
+
 ### Passionate about Code & Technology 🚀
+
 </div>
 
+---
 
 ### 📖 About Me
 Computer Science Educator & Enthusiast web development | Ranked 1st in University of Baghdad (92% Distinction). I specialize in breaking down complex technical concepts into accessible knowledge. With a strong foundation in Computer Science and a passion for Web Development, I strive to bridge the gap between technical theory and practical application.
