@@ -6,19 +6,26 @@
 
 <br>
 
-### 📖 About Me
-Computer Science Educator & Passionate about web development | Ranked 1st in University of Baghdad (92% Distinction). I specialize in breaking down complex technical concepts into accessible knowledge. With a strong foundation in Computer Science and a passion for Web Development, I strive to bridge the gap between technical theory and practical application.
+### 👤 About Me
+ 
+Full-Stack Developer focused on building performant, scalable web applications — from database schema to polished UI.
+Graduated **1st in class** with a Distinction (92%) from the University of Baghdad.
+I work across the full stack with a strong emphasis on clean architecture, great developer experience, and shipping real products.
 
 ![views](https://komarev.com/ghpvc/?username=m-92-h&color=00d2ff)
+
 ---
 
 ### 🛠️ Tech Stack & Skills
+ 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React.js-20232a?style=flat&logo=react&logoColor=61DAFB) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat) ![Neon DB](https://img.shields.io/badge/Neon_DB-00E599?style=flat&logoColor=black) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![PSQL](https://img.shields.io/badge/PSQL-336791?style=flat)|
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js%2016-000000?style=flat&logo=nextdotjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white) ![Motion](https://img.shields.io/badge/Motion-EE4C2C?style=flat&logo=framer&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Neon DB](https://img.shields.io/badge/Neon_DB-00E599?style=flat&logoColor=black) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| **AI Tooling** | ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat&logoColor=white) ![Windsurf](https://img.shields.io/badge/Windsurf-000000?style=flat&logo=codeium&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-FF3366?style=flat&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white) ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat&logo=google&logoColor=white) |
+ 
 ---
 
 ### 🤝 Connect With Me
