@@ -12,8 +12,6 @@ Full-Stack Developer focused on building performant, scalable web applications �
 Graduated **1st in class** with a Distinction (92%) from the University of Baghdad.
 I work across the full stack with a strong emphasis on clean architecture, great developer experience, and shipping real products.
 
-![views](https://komarev.com/ghpvc/?username=m-92-h&color=00d2ff)
-
 ---
 
 ### 🛠️ Tech Stack & Skills
